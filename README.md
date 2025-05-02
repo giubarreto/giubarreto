@@ -8,6 +8,7 @@ Estou estudando para ser desenvolvedora back- end em java.
 ***
 
 **CONECTE-SE COMIGO**
+
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/giubarreto)
 ***
 
@@ -20,6 +21,7 @@ Estou estudando para ser desenvolvedora back- end em java.
 ***
 
 **LINGUAGEM DE PROGRAMAÇÃO**
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ***
 
