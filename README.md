@@ -2,7 +2,7 @@
 
 Bem vindos ao meu github  👋 
 
-comecei nessa jornada em programação a pouco tempo, em breve esse perfil estará repleto de projetos interessantes.
+comecei nessa jornada em programação recentemente, em breve esse perfil estará repleto de projetos interessantes.
 Estou estudando para ser desenvolvedora back- end em java.
 
 ***
