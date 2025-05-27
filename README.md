@@ -22,6 +22,7 @@ Estou estudando para ser desenvolvedora back- end em java e full stack javascrip
 **LINGUAGEM DE PROGRAMAÇÃO**
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ***
 
 **SISTEMA OPERACIONAL**
