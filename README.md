@@ -3,8 +3,7 @@
 Bem vindos ao meu github  👋 
 
 comecei nessa jornada em programação recentemente, em breve esse perfil estará repleto de projetos interessantes.
-Estou estudando para ser desenvolvedora back- end em java.
-
+Estou estudando para ser desenvolvedora back- end em java e full stack javascript 
 ***
 
 **CONECTE-SE COMIGO**
