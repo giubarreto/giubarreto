@@ -41,7 +41,7 @@ Aqui você vai encontrar códigos, experimentos, ideias e muita vontade de evolu
 ## ✨ Um pouco sobre mim
 
 📚 Gosto de ler livros que me fazem pensar (ou me fazem sonhar),  
-🎧 ouvir música no volume máximo enquanto codifico,  
+🎧 ouvir música no volume máximo,  
 🍝 e, claro, apreciar uma boa comida — porque programar com fome não dá!
 
 Estou construindo meu caminho com calma, coragem e muita curiosidade.  
